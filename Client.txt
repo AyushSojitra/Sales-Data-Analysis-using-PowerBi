@@ -1,0 +1,18 @@
+KPI's Requirement:
+KPI: Key Performance Indicator, gives us overall idea of business, gives aggregation of values at high level.
+We need to analyze key indicators for our pizza sales data to gain insights
+performance. Specifically, we want to calculate the following metrics:
+Measures: Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order
+
+Charts Requirement:
+1. Daily Trend for Total Orders: Bar chart that displays daily trend over a period of time.
+2. Monhtly trend for total orders: line chart for it to understand the pattern.
+3. Percentage of sales by pizza category: Pie chart. 
+4. Percentage of sales by pizza size: Pie chart
+5. Total Pizza sold by pizza category: Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories.
+6. Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders: Bar Chart
+7. Bottom 5 Sellers by Revenue, Total Quantity, and Total Orders: Bar Chart
+
+There is always some level of data cleaning done in every project. We need to study the data from higher granularity to lower granularity, understand the data, and make sure it is clean as per our requirements and our problem statement. If you have studied the data properly, 60-70% of work is done there only, and remaining 30% is you have to bring it in the form of visualization.
+
+After presenting KPI in powerBi, compare and check your results with SQL Query answers.
